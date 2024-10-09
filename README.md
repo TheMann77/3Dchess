@@ -1,5 +1,5 @@
 # 3Dchess
-An app to play three-dimensional chess on tabletop or against the computer
+An app to play three-dimensional chess on tabletop or against an AI
 
 ## What I did
 - Researched different historical interpretations of 3D chess to decide on how my game would work
